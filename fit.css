@@ -1,0 +1,32 @@
+form{
+    border: 3px solid#20114
+}
+
+input[type=text], input[type=password] {
+    width: 25%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+  }
+
+  button {
+      width: 10%;
+      padding: 08px 08px;
+      color: grey;
+
+  }
+
+  button:hover{
+      opacity: 0.6;
+
+  }
+
+  body {
+  background-image: url("fit.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: center;
+  background-color: rgb(231, 213, 235);
+}
